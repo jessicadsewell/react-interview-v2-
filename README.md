@@ -1,8 +1,10 @@
 Instructions:
 
-- clone this repo
+- create account on https://codesandbox.io
+- fork https://codesandbox.io/p/github/meetmae/react-interview-v2-/main (click link and press fork button)
 - npm install
 - npm run dev
+- at the end, please commit your changes and share the fork with us!
 
 Links:
 
